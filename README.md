@@ -3,7 +3,7 @@
 <br />
 -  <img src="https://cdn.discordapp.com/emojis/785471628078612491.webp?size=96&quality=lossless" width="20"/>Flex 4 Ever
 <br />
-- <img src="https://cdn.discordapp.com/emojis/785471628078612491.webp?size=96&quality=lossless" width="20"/> Hunt Whats You Want :)
+
 <br />
 <br />
 <div align="center">
