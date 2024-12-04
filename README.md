@@ -19,7 +19,7 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=react,js,jquery,html,markdown,css,sass,bootstrap,nodejs,mongodb,discord,git,github,heroku,figma,tailwindcss,motion' />
+      <img src='https://skillicons.dev/icons?i=react,js,jquery,html,markdown,css,sass,bootstrap,nodejs,mongodb,discord,git,github,heroku,figma,tailwindcss' />
     </a>
   </p>
 </div>
@@ -39,7 +39,6 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 
 
 
-<a href="http://www.github.com/RaD01Black"><img src="https://activity-graph.herokuapp.com/graph?username=RaD01Black&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
   
 
