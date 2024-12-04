@@ -19,7 +19,7 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=react,js,jquery,html,markdown,css,sass,bootstrap,nodejs,mongodb,discord,git,github,heroku,figma' />
+      <img src='https://skillicons.dev/icons?i=react,js,jquery,html,markdown,css,sass,bootstrap,nodejs,mongodb,discord,git,github,heroku,figma,tailwindcss' />
     </a>
   </p>
 </div>
