@@ -25,7 +25,7 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 </div>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/673850770709413909)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/673850770709413909?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/673850770709413909)
 
 
 
