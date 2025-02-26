@@ -26,7 +26,6 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 
 
 
-[![RaD01Black github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaD01Black)](https://github.com/RaD01Black/github-readme-activity-graph)
 
 
 <br />
@@ -63,6 +62,9 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 <img align="center" alt="radblack | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
 </a>
 </div>
+
+
+[![RaD01Black github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaD01Black&theme=react-dark)](https://github.com/RaD01Black/github-readme-activity-graph)
 
 
 [github]: https://github.com/RaD01Black
