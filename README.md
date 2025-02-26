@@ -44,10 +44,13 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
   
 
 
+<br />
 
 <br />
 <a href="https://app.daily.dev/RaD01Black"><img src="https://api.daily.dev/devcards/1b78f660ff7d48699b4acec9a0b4a0ce.png?r=g97" width="400" alt="Radblack's Dev Card"/></a>
 </div>
+<br />
+<br />
 
 [![RaD01Black github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaD01Black&theme=react-dark)](https://github.com/RaD01Black/github-readme-activity-graph)
 
