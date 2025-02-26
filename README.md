@@ -49,12 +49,10 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 <a href="https://app.daily.dev/RaD01Black"><img src="https://api.daily.dev/devcards/1b78f660ff7d48699b4acec9a0b4a0ce.png?r=g97" width="400" alt="Radblack's Dev Card"/></a>
 </div>
 
+[![RaD01Black github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaD01Black&theme=react-dark)](https://github.com/RaD01Black/github-readme-activity-graph)
 
 <h3 align="center">Connect with me 📩</h3>
 <div align="center">
-<a href="https://github.com/RaD01Black">
-<img align="center" alt="Radblack | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
-</a>
 <a href="https://www.instagram.com/alereza_radblack/">
 <img align="center" alt="radblack | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />
 </a>
@@ -64,7 +62,7 @@ I'm a developer and network engineer based in Persian, but I live in Italy. I ha
 </div>
 
 
-[![RaD01Black github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaD01Black&theme=react-dark)](https://github.com/RaD01Black/github-readme-activity-graph)
+
 
 
 [github]: https://github.com/RaD01Black
